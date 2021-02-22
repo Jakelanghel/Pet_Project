@@ -1,0 +1,62 @@
+body {
+  background: #3D405B;
+}
+
+.hero {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10em;
+  background: #81B29A;
+}
+.hero .happy-len {
+  width: 50%;
+  margin-bottom: 2.5em;
+  border: solid black;
+  border-width: 10px;
+}
+.hero h1 {
+  font-size: 50px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 5em;
+}
+
+.columns {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.columns img {
+  border: solid black;
+  border-width: 5px;
+}
+.columns h3 {
+  font-size: 1.5em;
+}
+.columns h3 span {
+  color: blue;
+}
+.columns p {
+  background: #F4F1DE;
+  border: solid black;
+  border-width: 5px;
+}
+.columns p span {
+  color: red;
+}
+
+p {
+  margin: 0 1em;
+}/*# sourceMappingURL=main.css.map */
